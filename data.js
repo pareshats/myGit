@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+module.exports={
+		datadriven:
+
+{
+data1:
+	{
+		firstInput:"5",
+        secondInput:"4"
+	},
+data2:
+{
+	firstInput:"5",
+    secondInput:"32"
+},
+data3:
+{
+	firstInput:"5",
+    secondInput:"46545"
+}
+}
+}
